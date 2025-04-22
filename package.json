@@ -1,0 +1,22 @@
+{
+  "name": "test-emi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "load": "npx tsx load.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "@types/papaparse": "^5.3.15",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.6.0",
+    "papaparse": "^5.5.2"
+  }
+}

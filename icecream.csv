@@ -1,0 +1,4 @@
+id,flavor,price,type,createdAt
+1a2b3c4d-5678-90ab-cdef-1234567890ab,Vanilla,14.99,cream,2023-10-01T10:00:00Z
+2b3c4d5e-6789-01bc-defa-2345678901bc,Strawberry,12.49,fruit,2023-10-02T11:30:00Z
+3c4d5e6f-7890-12cd-efab-3456789012cd,Chocolate,16.75,cream,2023-10-03T14:45:00Z
